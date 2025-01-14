@@ -1,0 +1,25 @@
+name: New DNS Provider ➕
+description: Request a new DNS provider to be supported by alwaysDNS
+title: "new DNS provider - "
+labels: ["enhancement", "new-provider"]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for taking the time to request a new DNS provider! Just fill out this short form and you are done. 🚀
+  - type: input
+    id: provider
+    attributes:
+      label: New Provider
+      description: How can we get in touch with you if we need more info?
+      placeholder: DigitalOcean
+    validations:
+      required: false
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Additional Notes
+      description: Anything else you would like to add? (optional)
+      placeholder: I just want to add that ...
+    validations:
+      required: false
