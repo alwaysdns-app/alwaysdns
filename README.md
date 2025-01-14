@@ -1,5 +1,7 @@
 # alwaysDNS _beta 🚧_
 
+![Screenshot showing the user interface of alwaysDNS.](/img/screenshot.png)
+
 alwaysDNS is a cross-platform desktop app that provides a unified interface to manage your DNS domains and records.
 
 Additionally, it provides different DNS-related tools to quickly get rid of these "it's always DNS" moments.
