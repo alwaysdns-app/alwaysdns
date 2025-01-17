@@ -8,20 +8,24 @@ Additionally, it provides different DNS-related tools to quickly get rid of thes
 
 ## Features
 
-- 🌐 manage records across multiple DNS providers
+- 🌐 Manage records across multiple DNS providers
+- 🌍 Check the propagation status of your records
+- 🔎 Lookup all details for a given record
+- 🔒 DNS queries are executed using DNS-over-TLS to preserve your privacy
+- 💻 Available on macOS, Linux and Windows
 
-  - currently supported: Cloudflare, AWS Route53, Vercel
-  - missing your provider? [vote here](https://github.com/alwaysdns-app/alwaysdns/issues?q=is%3Aopen+is%3Aissue+label%3Anew-provider) or [request it](https://github.com/alwaysdns-app/alwaysdns/issues/new?assignees=&labels=enhancement%2Cnew-provider&projects=&template=new-provider.yml&title=new+DNS+provider+-+)
+### Planned
 
-- 🌍 check the propagation status of your records
-- 🔎 lookup all details for a given record
-- 💻 available on macOS, Linux and Windows
+- 📊 Bulk operations
+- 🚚 Domain migrations
+- 🧩 Debugging of DNS issues
 
-### planned
+### Current providers
 
-- 📊 bulk operations
-- 🚚 domain migrations
-- 🧩 debugging of DNS issues
+- AWS Route53
+- Cloudflare
+- Vercel
+- missing yours? [vote here](https://github.com/alwaysdns-app/alwaysdns/issues?q=is%3Aopen+is%3Aissue+label%3Anew-provider) or [request it](https://github.com/alwaysdns-app/alwaysdns/issues/new?assignees=&labels=enhancement%2Cnew-provider&projects=&template=new-provider.yml&title=new+DNS+provider+-+)
 
 ## Download
 
@@ -31,10 +35,10 @@ Additionally, it provides different DNS-related tools to quickly get rid of thes
 
 - 💡 Looking for a feature? ➡️
 
-  - [leave your vote](https://github.com/alwaysdns-app/alwaysdns/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement)
-  - [request a feature](https://github.com/alwaysdns-app/alwaysdns/issues/new?assignees=&labels=enhancement&projects=&template=feature-request.yml)
+  - [Leave your vote](https://github.com/alwaysdns-app/alwaysdns/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement)
+  - [Request a feature](https://github.com/alwaysdns-app/alwaysdns/issues/new?assignees=&labels=enhancement&projects=&template=feature-request.yml)
 
 - 🐞 Found a bug?
-  - [open a bug report](https://github.com/alwaysdns-app/alwaysdns/issues/new?assignees=&labels=bug&projects=&template=bug-report.yml)
+  - [Open a bug report](https://github.com/alwaysdns-app/alwaysdns/issues/new?assignees=&labels=bug&projects=&template=bug-report.yml)
 
 Thank you for using alwaysDNS! ❤️
