@@ -39,6 +39,9 @@ Additionally, it provides different DNS-related tools to quickly get rid of thes
   - [Request a feature](https://github.com/alwaysdns-app/alwaysdns/issues/new?assignees=&labels=enhancement&projects=&template=feature-request.yml)
 
 - 🐞 Found a bug?
+
   - [Open a bug report](https://github.com/alwaysdns-app/alwaysdns/issues/new?assignees=&labels=bug&projects=&template=bug-report.yml)
+
+- Contact us at [support@alwaysdns.app](mailto:support@alwaysdns.app)
 
 Thank you for using alwaysDNS! ❤️
